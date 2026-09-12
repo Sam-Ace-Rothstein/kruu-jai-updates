@@ -1,8 +1,8 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559020335",
-  "sha256": "8af0805f4cb42893428738d50a4464b19ccf7031f7b4ef4f57d130c49b387c40",
-  "size": 218383587,
-  "notes": "Updates now install themselves: the app checks, downloads, verifies the download against a published checksum, replaces itself and reopens. Settings shows the version. The header no longer repeats your address."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559036302",
+  "sha256": "e540704e733462b4d7e158395fc1ba13e48db57eb20f209053d7a6656dad236e",
+  "size": 218383760,
+  "notes": "Settings now shows the app's version inside the Account card, at its foot, with the button that checks for updates."
 }
