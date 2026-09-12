@@ -1,8 +1,8 @@
 {
-  "version": "0.2.1",
+  "version": "0.3.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559036302",
-  "sha256": "e540704e733462b4d7e158395fc1ba13e48db57eb20f209053d7a6656dad236e",
-  "size": 218383760,
-  "notes": "Settings now shows the app's version inside the Account card, at its foot, with the button that checks for updates."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559082325",
+  "sha256": "8225246beac1e9ae2dc1dc251b2a9589aaf1b4bbc45fdc106ea2641500f7298c",
+  "size": 218429045,
+  "notes": "Chapter 12 of Stage 2 is in: the verb to be, bpe'n kuee yuu. Forty-two words, ninety-seven worked patterns and twenty-nine exercises."
 }
