@@ -1,8 +1,8 @@
 {
-  "version": "0.3.7",
+  "version": "0.3.9",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559210844",
-  "sha256": "edee116b1fdaac4e8418a4ffaa1850fea6a80974db65fcf55bcef179016ed031",
-  "size": 218431869,
-  "notes": "Updates install themselves properly now: download, checksum, replace, reopen, and the download is cleaned up afterwards."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559265457",
+  "sha256": "85d6119ac7bc02ded9c92a2d04b9bde89a602dae7fbc287cbf7b1a98612f8297",
+  "size": 218432668,
+  "notes": "Updates now install without stalling: the unpack has its own directory and a deadline, and only one copy of the app can run at a time."
 }
