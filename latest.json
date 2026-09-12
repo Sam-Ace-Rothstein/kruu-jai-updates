@@ -1,8 +1,8 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559595447",
-  "sha256": "ad8f2272ac2f7fe7883755ee361a5d700d34c800f7f0b80726ffb4c46a173812",
-  "size": 155854917,
-  "notes": "Chapter 14 is in, and the thirteen book errors are corrected. Terms, privacy and refunds now have a page. Text is darker and easier to read, and the keyboard can get out of every menu."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559637531",
+  "sha256": "b465061436c9d309ce3827255bc5d00fbacf4843460a3a58465a10a4e13c6025",
+  "size": 155872444,
+  "notes": "An update that loses its connection now picks up where it stopped instead of giving up, says what really went wrong, and offers to try again. The progress window can no longer get stuck on screen. This edition also stops printing links to videos it does not include."
 }
