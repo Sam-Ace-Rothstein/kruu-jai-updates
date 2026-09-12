@@ -1,8 +1,8 @@
 {
-  "version": "0.4.1",
+  "version": "0.4.2",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559427189",
-  "sha256": "0c0fb942cc3f0074c3651503accadb06be2fa6f9dc21fe17fb9a695b81a6fa29",
-  "size": 155779837,
-  "notes": "The teacher now calls you by your own name in a conversation, not the book's. The update window cannot be closed halfway and says the app reopens itself. The dashboard can record spend that belongs to another project."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559435448",
+  "sha256": "b5e05d1343fce853dc0a571584c64a442d5fb2bd895a84e5f7e853e6ed04eec2",
+  "size": 155799117,
+  "notes": "Chapter 13 is in: the verbs tam, mee, ao, dai and hai. Romanisation is out of the printed prose across every earlier chapter. The update window has no buttons to press while it is working."
 }
