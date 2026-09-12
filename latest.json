@@ -1,8 +1,8 @@
 {
-  "version": "0.5.2",
+  "version": "0.6.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559652733",
-  "sha256": "23f16ce7e9cf66fb2181f92d4b75522e90d82068d1f936aa538cff442b04af15",
-  "size": 155873561,
-  "notes": "The legal pages now look like the rest of the app: the same header, a heading that says what the page is, and the four documents kept in a list beside what you are reading. Includes the update fixes from 0.5.1."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559716570",
+  "sha256": "144716886bbafb8fd0005b99e7bac3376ab4ac6f72659b819c513e9abd392688",
+  "size": 155983591,
+  "notes": "Conversation practice is fixed: she is no longer given your half of the script, so she cannot read your lines or wander out of order, and she calls you by your own name instead of the book's. Chapters 15 and 16 are in."
 }
