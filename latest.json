@@ -1,8 +1,8 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559160866",
-  "sha256": "d4e8902e6369877c8aed184babf20a431cb85e43dfb86de8609ea531c16a625b",
-  "size": 218431263,
-  "notes": "Clicking Install now works: the app closed silently before because a failure in the update window was never caught. Every step is written to a log, and nothing can take the app down without saying why."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559166574",
+  "sha256": "9b8c7dfce509d60f29038138b02dcbd88ce9dfc077429c82a66f981e4bcc64ad",
+  "size": 218431269,
+  "notes": "Clicking Install works end to end again, and nothing in the app can now close it without leaving a reason behind."
 }
