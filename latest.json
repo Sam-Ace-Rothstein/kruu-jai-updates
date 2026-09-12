@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559082325",
-  "sha256": "8225246beac1e9ae2dc1dc251b2a9589aaf1b4bbc45fdc106ea2641500f7298c",
-  "size": 218429045,
-  "notes": "Chapter 12 of Stage 2 is in: the verb to be, bpe'n kuee yuu. Forty-two words, ninety-seven worked patterns and twenty-nine exercises."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559115110",
+  "sha256": "2857c8a1030d8c98a3e1318599d3666fd65d3a864bfcb3f75da965cdcd836ba1",
+  "size": 218430296,
+  "notes": "The teacher is never handed romanisation again. Her teaching tools were returning it and she was reading it aloud; the copy she receives now has it removed, while the page keeps showing it to you."
 }
