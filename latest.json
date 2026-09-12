@@ -1,5 +1,8 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "notes": "First packaged Mac build. Drag Kruu Jai to Applications; your progress lives outside the app and is kept."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559020335",
+  "sha256": "8af0805f4cb42893428738d50a4464b19ccf7031f7b4ef4f57d130c49b387c40",
+  "size": 218383587,
+  "notes": "Updates now install themselves: the app checks, downloads, verifies the download against a published checksum, replaces itself and reopens. Settings shows the version. The header no longer repeats your address."
 }
