@@ -1,8 +1,8 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559380949",
-  "sha256": "ff01fc0b005b92d7825fcfb10d489794ba4acce0388e83deea19994c35be81d7",
-  "size": 155775952,
-  "notes": "The owner dashboard shows what lessons cost again: the usage ledger was being written inside the application, where a Mac app is not allowed to write. Also a much smaller download, and your record can now be saved to a file and put back."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559427189",
+  "sha256": "0c0fb942cc3f0074c3651503accadb06be2fa6f9dc21fe17fb9a695b81a6fa29",
+  "size": 155779837,
+  "notes": "The teacher now calls you by your own name in a conversation, not the book's. The update window cannot be closed halfway and says the app reopens itself. The dashboard can record spend that belongs to another project."
 }
