@@ -1,8 +1,8 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559115110",
-  "sha256": "2857c8a1030d8c98a3e1318599d3666fd65d3a864bfcb3f75da965cdcd836ba1",
-  "size": 218430296,
-  "notes": "The teacher is never handed romanisation again. Her teaching tools were returning it and she was reading it aloud; the copy she receives now has it removed, while the page keeps showing it to you."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559160866",
+  "sha256": "d4e8902e6369877c8aed184babf20a431cb85e43dfb86de8609ea531c16a625b",
+  "size": 218431263,
+  "notes": "Clicking Install now works: the app closed silently before because a failure in the update window was never caught. Every step is written to a log, and nothing can take the app down without saying why."
 }
