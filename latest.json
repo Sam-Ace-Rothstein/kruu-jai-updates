@@ -1,8 +1,8 @@
 {
-  "version": "0.5.1",
+  "version": "0.5.2",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559637531",
-  "sha256": "b465061436c9d309ce3827255bc5d00fbacf4843460a3a58465a10a4e13c6025",
-  "size": 155872444,
-  "notes": "An update that loses its connection now picks up where it stopped instead of giving up, says what really went wrong, and offers to try again. The progress window can no longer get stuck on screen. This edition also stops printing links to videos it does not include."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559652733",
+  "sha256": "23f16ce7e9cf66fb2181f92d4b75522e90d82068d1f936aa538cff442b04af15",
+  "size": 155873561,
+  "notes": "The legal pages now look like the rest of the app: the same header, a heading that says what the page is, and the four documents kept in a list beside what you are reading. Includes the update fixes from 0.5.1."
 }
