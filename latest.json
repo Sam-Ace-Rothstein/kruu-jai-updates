@@ -1,8 +1,8 @@
 {
-  "version": "0.4.3",
+  "version": "0.4.4",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559483331",
-  "sha256": "494acdcd02f8488cdd0a7a3f72e87cb3f17585627f13fadeb1e84891dd4f6b00",
-  "size": 155802627,
-  "notes": "Stage 2 now shows chapters 12 and 13, which were in the app but unreachable. The stage and chapter menus are tidier, and the chapter counts say something."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559511947",
+  "sha256": "83a027dfc404ebdd374f7fa2b7cd2dadd132859d50f55a731bf85ab1b35dce8d",
+  "size": 155805254,
+  "notes": "Sections with no vocabulary now open on the tab that has their notes, instead of a blank page."
 }
