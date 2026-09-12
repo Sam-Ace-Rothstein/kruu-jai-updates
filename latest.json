@@ -1,8 +1,8 @@
 {
-  "version": "0.3.10",
+  "version": "0.4.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559274040",
-  "sha256": "06cda63081f9dbcecb0ac77ff45ab6367a1e5a617ea1af2e24288a60a0043716",
-  "size": 218432920,
-  "notes": "No more false warnings that the lesson pages are out of date, and only one copy of Kruu Jai runs at a time."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559380949",
+  "sha256": "ff01fc0b005b92d7825fcfb10d489794ba4acce0388e83deea19994c35be81d7",
+  "size": 155775952,
+  "notes": "The owner dashboard shows what lessons cost again: the usage ledger was being written inside the application, where a Mac app is not allowed to write. Also a much smaller download, and your record can now be saved to a file and put back."
 }
