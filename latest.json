@@ -1,8 +1,8 @@
 {
-  "version": "0.3.3",
+  "version": "0.3.5",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559166574",
-  "sha256": "9b8c7dfce509d60f29038138b02dcbd88ce9dfc077429c82a66f981e4bcc64ad",
-  "size": 218431269,
-  "notes": "Clicking Install works end to end again, and nothing in the app can now close it without leaving a reason behind."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559174194",
+  "sha256": "27d9e3fba278a36d5fc4a9b27543f07c5395f344292affe037baf7ba31c94905",
+  "size": 218431450,
+  "notes": "Clicking Install now downloads, checks, installs and reopens. The earlier attempt closed the app because a progress-bar call that does not exist threw twice over."
 }
