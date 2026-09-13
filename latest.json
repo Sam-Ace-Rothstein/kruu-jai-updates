@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
+  "version": "0.7.1",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/560664758",
-  "sha256": "e371c33aa761ef89d7a9fd19fbc72dc55d7dd3be520dd52d73d79265441efc9e",
-  "size": 156297477,
-  "notes": "Stage 2 is complete: chapters 17 to 20 are in, so the course now runs to 20 chapters, 994 words and 1,239 exercises."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/560690612",
+  "sha256": "1b5e5cb78da88500b43ab7defd7099a4116ed191083a692124aeec914061e1b9",
+  "size": 156299173,
+  "notes": "Conversations you cannot take part in are now printed exactly as the book has them, instead of every speaker being labelled Kruu Jai. Two Thai errors fixed: a sentence saying ผม is no longer given ค่ะ, and the คะ inside ผักคะน้า is no longer mistaken for a polite ending."
 }
