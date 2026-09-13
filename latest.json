@@ -1,8 +1,8 @@
 {
-  "version": "0.11.0",
+  "version": "0.12.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561396355",
-  "sha256": "23671a334fa916bdb69006c178218fe53db832de0b9b0a1944cbd07406986181",
-  "size": 156973469,
-  "notes": "The three guides that come before Chapter 1, at the foot of the lesson."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561504673",
+  "sha256": "0f4c363b27c57f2ef45d1a3a98d3361f4160ff88b61add754a62571033320e8f",
+  "size": 156959740,
+  "notes": "The Stage 1 guides open from the menu, and a word card says what it means once."
 }
