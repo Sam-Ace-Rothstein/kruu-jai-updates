@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/559716570",
-  "sha256": "144716886bbafb8fd0005b99e7bac3376ab4ac6f72659b819c513e9abd392688",
-  "size": 155983591,
-  "notes": "Conversation practice is fixed: she is no longer given your half of the script, so she cannot read your lines or wander out of order, and she calls you by your own name instead of the book's. Chapters 15 and 16 are in."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/560664758",
+  "sha256": "e371c33aa761ef89d7a9fd19fbc72dc55d7dd3be520dd52d73d79265441efc9e",
+  "size": 156297477,
+  "notes": "Stage 2 is complete: chapters 17 to 20 are in, so the course now runs to 20 chapters, 994 words and 1,239 exercises."
 }
