@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0",
+  "version": "0.10.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561172920",
-  "sha256": "df5d333efbbfabd8d7da9710d360d8133648beb461dcd66f3983f9fe78c275fc",
-  "size": 156585549,
-  "notes": "She now answers questions the course does not cover instead of refusing — marked as unchecked — will teach slang and swearing if you ask, and role-plays with her own examples. When you forget a word she offers a way to remember it rather than the word list again. The voice teacher gets all of this too. Your dashboard now opens on what is in front of a learner rather than only what it costs."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561288370",
+  "sha256": "2ed12c3924b832c9769b69db3ead419bd12ce86edff213b040350613b9fefc94",
+  "size": 156908238,
+  "notes": "All thirty chapters, and she stops calling you by a part you are playing."
 }
