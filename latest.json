@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
+  "version": "0.9.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/560990044",
-  "sha256": "ac3198d0b051828dc7e0f24324fe310b6993988079036acf9b40c21e53dda0fb",
-  "size": 156578601,
-  "notes": "Stage 3 has begun: chapters 21 to 25 are in, so the course now runs to 25 chapters and 1,408 exercises — and these chapters bring back the build-a-sentence and open questions that Stage 2 could not have. The teacher also stops handing you romanisation after you have turned it off, and no longer invents Thai for words the course does not teach."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561172920",
+  "sha256": "df5d333efbbfabd8d7da9710d360d8133648beb461dcd66f3983f9fe78c275fc",
+  "size": 156585549,
+  "notes": "She now answers questions the course does not cover instead of refusing — marked as unchecked — will teach slang and swearing if you ask, and role-plays with her own examples. When you forget a word she offers a way to remember it rather than the word list again. The voice teacher gets all of this too. Your dashboard now opens on what is in front of a learner rather than only what it costs."
 }
