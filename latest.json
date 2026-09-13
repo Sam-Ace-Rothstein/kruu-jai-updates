@@ -1,8 +1,8 @@
 {
-  "version": "0.10.0",
+  "version": "0.11.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561288370",
-  "sha256": "2ed12c3924b832c9769b69db3ead419bd12ce86edff213b040350613b9fefc94",
-  "size": 156908238,
-  "notes": "All thirty chapters, and she stops calling you by a part you are playing."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561396355",
+  "sha256": "23671a334fa916bdb69006c178218fe53db832de0b9b0a1944cbd07406986181",
+  "size": 156973469,
+  "notes": "The three guides that come before Chapter 1, at the foot of the lesson."
 }
