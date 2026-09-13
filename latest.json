@@ -1,8 +1,8 @@
 {
-  "version": "0.14.0",
+  "version": "0.15.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561624530",
-  "sha256": "131d2e595db5cac4b73f4884e1fdd5d1147c79ad52494f87dca1c13dcbd2d9c9",
-  "size": 156994066,
-  "notes": "Answers behind every question the course answers, and Thai you can read wherever it appears."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561695546",
+  "sha256": "65e60115cf3a679ac17306c8fd8b33aae895173592c40861aa77f28a6df6fad8",
+  "size": 156993917,
+  "notes": "The stage introductions read as documents, with their parts beside them."
 }
