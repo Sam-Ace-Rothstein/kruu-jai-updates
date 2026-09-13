@@ -1,8 +1,8 @@
 {
-  "version": "0.13.0",
+  "version": "0.14.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561551652",
-  "sha256": "faa99feef375da336b9a24c9ee484617db0c4e7da456d35133b9ef2664009773",
-  "size": 156984848,
-  "notes": "The five stage guides, each its own page, with the first two diagrams drawn."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561624530",
+  "sha256": "131d2e595db5cac4b73f4884e1fdd5d1147c79ad52494f87dca1c13dcbd2d9c9",
+  "size": 156994066,
+  "notes": "Answers behind every question the course answers, and Thai you can read wherever it appears."
 }
