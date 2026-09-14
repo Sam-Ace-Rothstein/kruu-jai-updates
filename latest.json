@@ -1,8 +1,8 @@
 {
-  "version": "0.16.0",
+  "version": "0.17.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/561758103",
-  "sha256": "f55e4c8163dcc2ddbfa4b0fff190444caf30d777e5443bd7194fbabf7d302c7f",
-  "size": 157116443,
-  "notes": "Stage 2 gets its exercise book: 316 exercises become 804."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/562660310",
+  "sha256": "5dcdff891d4b21211945a84232c4004bf76007b9a8ba4daccc08f720e42044c0",
+  "size": 157116485,
+  "notes": "The open introduction is highlighted in the menu, and its contents rail stays put."
 }
