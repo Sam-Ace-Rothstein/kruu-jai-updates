@@ -1,8 +1,8 @@
 {
-  "version": "0.19.0",
+  "version": "0.20.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/563066037",
-  "sha256": "5c8ba5219035dc22d0df8e3c4271cb07dc93a58086d1d781ac8a9afd5bf17f9e",
-  "size": 157146307,
-  "notes": "Complete sentences restored across the course, and 184 word cards that no longer repeat themselves."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/563325018",
+  "sha256": "f99cb796ec5fe76f25419ae5496b140faa0cabbeed79fdd81811c20ad1d6d7a3",
+  "size": 157149940,
+  "notes": "Sound spellings repaired across 23 sentences, and one Thai word its own answer had been naming all along"
 }
