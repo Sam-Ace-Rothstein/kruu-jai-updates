@@ -1,8 +1,8 @@
 {
-  "version": "0.17.0",
+  "version": "0.18.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/562660310",
-  "sha256": "5dcdff891d4b21211945a84232c4004bf76007b9a8ba4daccc08f720e42044c0",
-  "size": 157116485,
-  "notes": "The open introduction is highlighted in the menu, and its contents rail stays put."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/562710405",
+  "sha256": "5a523c50c2ed9063d1a4b242e3f5f92c688d66454171c7280f3d57513d13bccb",
+  "size": 157116515,
+  "notes": "The contents rail stays put, and Settings stacks the account above the plan."
 }
