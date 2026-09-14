@@ -1,8 +1,8 @@
 {
-  "version": "0.20.0",
+  "version": "0.20.1",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/563325018",
-  "sha256": "f99cb796ec5fe76f25419ae5496b140faa0cabbeed79fdd81811c20ad1d6d7a3",
-  "size": 157149940,
-  "notes": "Sound spellings repaired across 23 sentences, and one Thai word its own answer had been naming all along"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/563952236",
+  "sha256": "e5498e002c3ecaa77946a18d1cc4aabf9b1eb37ecabd0fb7bd1b1d22257c94e9",
+  "size": 157134093,
+  "notes": "Every language point and culture note now stands on its own"
 }
