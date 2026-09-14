@@ -1,8 +1,8 @@
 {
-  "version": "0.20.2",
+  "version": "0.20.3",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/563978434",
-  "sha256": "443bf1c87cdbac98c93214f9a29df245574543d71c3b74c07d84f336bd52db1d",
-  "size": 157135323,
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/563989018",
+  "sha256": "0841a77c536355a59c9296e46f2ec7c55f82bce200ef1f31966dafbfd41e2582",
+  "size": 157135947,
   "notes": "Course notes print with the paragraphs they were written with"
 }
