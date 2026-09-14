@@ -1,8 +1,8 @@
 {
-  "version": "0.20.1",
+  "version": "0.20.2",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/563952236",
-  "sha256": "e5498e002c3ecaa77946a18d1cc4aabf9b1eb37ecabd0fb7bd1b1d22257c94e9",
-  "size": 157134093,
-  "notes": "Every language point and culture note now stands on its own"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/563978434",
+  "sha256": "443bf1c87cdbac98c93214f9a29df245574543d71c3b74c07d84f336bd52db1d",
+  "size": 157135323,
+  "notes": "Course notes print with the paragraphs they were written with"
 }
