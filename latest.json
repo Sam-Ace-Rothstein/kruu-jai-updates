@@ -1,8 +1,8 @@
 {
-  "version": "0.20.3",
+  "version": "0.21.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/563989018",
-  "sha256": "0841a77c536355a59c9296e46f2ec7c55f82bce200ef1f31966dafbfd41e2582",
-  "size": 157135947,
-  "notes": "Course notes print with the paragraphs they were written with"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/565009121",
+  "sha256": "65906c3d151871779ac6214a30b761b5f1965b0d54fdb784bb3719721b9cd5a3",
+  "size": 157138882,
+  "notes": "Cut-off lesson text restored, and one name for the girl throughout"
 }
