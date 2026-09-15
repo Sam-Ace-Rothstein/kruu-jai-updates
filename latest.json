@@ -1,8 +1,8 @@
 {
-  "version": "0.22.2",
+  "version": "0.22.3",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/566371539",
-  "sha256": "51160a365d4157c8688809cc95eb884239e1d92bbeb3af53ac3ebc46fc8383df",
-  "size": 157165591,
-  "notes": "The teacher is told your measured tone, and the highlight follows the word she is teaching"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/566416844",
+  "sha256": "cd22991bee2035a12308e115dae2c14b36a24959d8ab4203adf973bebe6b7a38",
+  "size": 157165906,
+  "notes": "The teacher is told your measured tone, the highlight follows her section, and she teaches the tone the book prints"
 }
