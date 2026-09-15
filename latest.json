@@ -1,8 +1,8 @@
 {
-  "version": "0.21.2",
+  "version": "0.22.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/566034302",
-  "sha256": "563f0f0bef0223ae2d14ee277e5c3d1ede1e7eddec90bb0cc75c4ac75f3a9b49",
-  "size": 157141822,
-  "notes": "She only corrects a tone that is actually wrong, uses your name in role plays, always gives feedback at the end of a conversation, and picks up where you stopped"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/566275049",
+  "sha256": "7cbb8b592f62b85c34db528f39323e6ff86760db771630e8b4b40adf2a8836c7",
+  "size": 157160502,
+  "notes": "See your tones measured as you speak, and the teacher is told what you actually produced"
 }
