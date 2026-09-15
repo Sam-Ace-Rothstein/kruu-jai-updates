@@ -1,8 +1,8 @@
 {
-  "version": "0.21.1",
+  "version": "0.21.2",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/565162947",
-  "sha256": "0be965283de2494ad94741822f4e5f1435f6ff0fbb51442a6302a9fddc5a0220",
-  "size": 157139428,
-  "notes": "Sound spellings restored, and two sentences the book never finishes cut where it stops"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/566034302",
+  "sha256": "563f0f0bef0223ae2d14ee277e5c3d1ede1e7eddec90bb0cc75c4ac75f3a9b49",
+  "size": 157141822,
+  "notes": "She only corrects a tone that is actually wrong, uses your name in role plays, always gives feedback at the end of a conversation, and picks up where you stopped"
 }
