@@ -1,8 +1,8 @@
 {
-  "version": "0.22.0",
+  "version": "0.22.1",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/566275049",
-  "sha256": "7cbb8b592f62b85c34db528f39323e6ff86760db771630e8b4b40adf2a8836c7",
-  "size": 157160502,
-  "notes": "See your tones measured as you speak, and the teacher is told what you actually produced"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/566324876",
+  "sha256": "9835775503bb502249d2e17636ee5977c889c3368860c5f500ae93b50c62a11f",
+  "size": 157164318,
+  "notes": "Tone meter: calibrate your voice in Settings, and syllables labelled from the course's own transliteration"
 }
