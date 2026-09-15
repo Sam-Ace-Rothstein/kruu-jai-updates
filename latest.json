@@ -1,8 +1,8 @@
 {
-  "version": "0.21.0",
+  "version": "0.21.1",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/565009121",
-  "sha256": "65906c3d151871779ac6214a30b761b5f1965b0d54fdb784bb3719721b9cd5a3",
-  "size": 157138882,
-  "notes": "Cut-off lesson text restored, and one name for the girl throughout"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/565162947",
+  "sha256": "0be965283de2494ad94741822f4e5f1435f6ff0fbb51442a6302a9fddc5a0220",
+  "size": 157139428,
+  "notes": "Sound spellings restored, and two sentences the book never finishes cut where it stops"
 }
