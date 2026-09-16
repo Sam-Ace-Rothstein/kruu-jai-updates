@@ -1,8 +1,8 @@
 {
-  "version": "0.25.0",
+  "version": "0.26.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567424983",
-  "sha256": "c76b5a60a2dcd994dc40c9f9d533658df811fe273f9e7b45291c660cd87922f8",
-  "size": 157174648,
-  "notes": "The lesson highlight stays on the section being taught, and now moves for every word on a combined tab"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567546754",
+  "sha256": "6336ba18cf24181c66768a7a4a4a2fb573a0373b4c0edd8a67e75472df62c2bc",
+  "size": 157178957,
+  "notes": "Where? is one word card again, and the teacher says what she is doing instead of going quiet"
 }
