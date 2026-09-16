@@ -1,8 +1,8 @@
 {
-  "version": "0.37.0",
+  "version": "0.38.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568295581",
-  "sha256": "e690253445f6d7d55813b3bc4fb01e9b9668a8edb300418b453dfac4a1a631b6",
-  "size": 157192206,
-  "notes": "Pick a word and the teacher starts there, the highlight follows your choice, and calibration shows it is listening"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568321144",
+  "sha256": "60d33aabf449a1b5674d3673add1b7cfabec68291d82029e1759a483c80a9955",
+  "size": 157192663,
+  "notes": "Choosing a word now opens its section too, so the teacher can move from the first word to the second"
 }
