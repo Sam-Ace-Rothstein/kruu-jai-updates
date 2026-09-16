@@ -1,8 +1,8 @@
 {
-  "version": "0.35.0",
+  "version": "0.36.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568193917",
-  "sha256": "59350979b8c57e7f52502ab51939527afebcfc7533efb6e9cd2aa4b333a8eea1",
-  "size": 157190901,
-  "notes": "Settings now say who judges your tones, and the tone tool shows Thai script when transliteration is off"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568247162",
+  "sha256": "cefd3568c6e5cf0c8a0e72e94c066e31e8048684524b81830f97832fb8b15fee",
+  "size": 157191162,
+  "notes": "One highlight instead of two, tap a word to tell the teacher where to start, and she must really open a section before teaching it"
 }
