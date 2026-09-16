@@ -1,8 +1,8 @@
 {
-  "version": "0.30.0",
+  "version": "0.31.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567943865",
-  "sha256": "3424890b2fb15ec48e9dc968b0639d93907a79707c171e205496661bc3207a21",
-  "size": 157182601,
-  "notes": "The teacher defers to the tone meter on GPT-Live; on the realtime engine she waits for its reading before replying"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567969272",
+  "sha256": "85bbaab5c315225f52aad77549884d19cb471b849e64a114a23e047753b7d0ac",
+  "size": 157184733,
+  "notes": "Settings → Your voice: an experiment that hands the tone meter's reading to the teacher, off unless you turn it on"
 }
