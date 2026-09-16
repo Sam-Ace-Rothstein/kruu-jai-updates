@@ -1,8 +1,8 @@
 {
-  "version": "0.32.0",
+  "version": "0.33.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568019538",
-  "sha256": "51d546d41dc7f144910d0111be627941d02a3a3f814c34b212ac4891aa3e823f",
-  "size": 157184761,
-  "notes": "The teacher leaves tone to the meter unless a miss is obvious; the Settings relay experiment now actually reaches her"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568060781",
+  "sha256": "3d4d61513a9c73bc3a74536d664d9cf725f38f71333bb5f9e3dbfbd56e0386a7",
+  "size": 157185976,
+  "notes": "The teacher explains the tone meter in her own words, moves on after two tries, and ignores a reading that has gone stale"
 }
