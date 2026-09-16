@@ -1,8 +1,8 @@
 {
-  "version": "0.31.0",
+  "version": "0.32.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567969272",
-  "sha256": "85bbaab5c315225f52aad77549884d19cb471b849e64a114a23e047753b7d0ac",
-  "size": 157184733,
-  "notes": "Settings → Your voice: an experiment that hands the tone meter's reading to the teacher, off unless you turn it on"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568019538",
+  "sha256": "51d546d41dc7f144910d0111be627941d02a3a3f814c34b212ac4891aa3e823f",
+  "size": 157184761,
+  "notes": "The teacher leaves tone to the meter unless a miss is obvious; the Settings relay experiment now actually reaches her"
 }
