@@ -1,8 +1,8 @@
 {
-  "version": "0.29.0",
+  "version": "0.29.1",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567791544",
-  "sha256": "7cb59db11dc6ab85b4944aef523ba21a7ed978b66fd661bd965abbe80c1081e2",
-  "size": 157181722,
-  "notes": "Compound words stay highlighted, the teacher hears what the tone meter measured, and the meter no longer listens to her"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567897712",
+  "sha256": "4acbd93894a5dd8066001002a53f9a335428d6ffefeab1b73c9a6bcf81a71421",
+  "size": 157181734,
+  "notes": "Fixes the teacher being unable to reply after 0.29.0"
 }
