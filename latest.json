@@ -1,8 +1,8 @@
 {
-  "version": "0.26.0",
+  "version": "0.27.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567546754",
-  "sha256": "6336ba18cf24181c66768a7a4a4a2fb573a0373b4c0edd8a67e75472df62c2bc",
-  "size": 157178957,
-  "notes": "Where? is one word card again, and the teacher says what she is doing instead of going quiet"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567562582",
+  "sha256": "6ff4f27e82277b0b2e25d01bf9315cc7320dc88397fe7a9a604a0e69d65d0d2d",
+  "size": 157179119,
+  "notes": "The teacher's own tools now see the same word cards you do"
 }
