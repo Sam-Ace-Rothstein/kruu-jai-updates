@@ -1,8 +1,8 @@
 {
-  "version": "0.27.0",
+  "version": "0.28.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567562582",
-  "sha256": "6ff4f27e82277b0b2e25d01bf9315cc7320dc88397fe7a9a604a0e69d65d0d2d",
-  "size": 157179119,
-  "notes": "The teacher's own tools now see the same word cards you do"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567652244",
+  "sha256": "8d7b30690d6de9e66ee108ebf86f0142ba4c46f153109715badc8620aebc45a6",
+  "size": 157180791,
+  "notes": "The highlight follows the word she moves to, and she is told what the tone meter measured"
 }
