@@ -1,8 +1,8 @@
 {
-  "version": "0.24.0",
+  "version": "0.25.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567388685",
-  "sha256": "97abf094438922262b1702cb0bcb61c1c3bf8ec1c2b0334ae71457c4e05c146b",
-  "size": 157173289,
-  "notes": "Word cards no longer print their meaning twice, and a word taught once is shown once"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567424983",
+  "sha256": "c76b5a60a2dcd994dc40c9f9d533658df811fe273f9e7b45291c660cd87922f8",
+  "size": 157174648,
+  "notes": "The lesson highlight stays on the section being taught, and now moves for every word on a combined tab"
 }
