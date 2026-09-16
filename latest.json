@@ -1,8 +1,8 @@
 {
-  "version": "0.33.0",
+  "version": "0.34.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568060781",
-  "sha256": "3d4d61513a9c73bc3a74536d664d9cf725f38f71333bb5f9e3dbfbd56e0386a7",
-  "size": 157185976,
-  "notes": "The teacher explains the tone meter in her own words, moves on after two tries, and ignores a reading that has gone stale"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568106204",
+  "sha256": "d57246c12c8416daf3398fe1463aa59667dc2af09ac82f8227910a2f206aa6cb",
+  "size": 157187278,
+  "notes": "The tone chart shows how much room each tone has, and the teacher saves her fillers for a real wait"
 }
