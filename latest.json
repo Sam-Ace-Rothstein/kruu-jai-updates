@@ -1,8 +1,8 @@
 {
-  "version": "0.34.0",
+  "version": "0.35.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568106204",
-  "sha256": "d57246c12c8416daf3398fe1463aa59667dc2af09ac82f8227910a2f206aa6cb",
-  "size": 157187278,
-  "notes": "The tone chart shows how much room each tone has, and the teacher saves her fillers for a real wait"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568193917",
+  "sha256": "59350979b8c57e7f52502ab51939527afebcfc7533efb6e9cd2aa4b333a8eea1",
+  "size": 157190901,
+  "notes": "Settings now say who judges your tones, and the tone tool shows Thai script when transliteration is off"
 }
