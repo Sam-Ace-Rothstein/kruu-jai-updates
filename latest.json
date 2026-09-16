@@ -1,8 +1,8 @@
 {
-  "version": "0.23.0",
+  "version": "0.24.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567342403",
-  "sha256": "d7d7ac32bb113c7b7d19d7cf173bfb8f19e56e67142b51c95b09d20e0a5009b7",
-  "size": 157167811,
-  "notes": "Every tone reading is now kept in your record, so the next lesson can be checked against what was measured"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567388685",
+  "sha256": "97abf094438922262b1702cb0bcb61c1c3bf8ec1c2b0334ae71457c4e05c146b",
+  "size": 157173289,
+  "notes": "Word cards no longer print their meaning twice, and a word taught once is shown once"
 }
