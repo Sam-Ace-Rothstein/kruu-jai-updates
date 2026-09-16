@@ -1,8 +1,8 @@
 {
-  "version": "0.29.1",
+  "version": "0.30.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567897712",
-  "sha256": "4acbd93894a5dd8066001002a53f9a335428d6ffefeab1b73c9a6bcf81a71421",
-  "size": 157181734,
-  "notes": "Fixes the teacher being unable to reply after 0.29.0"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567943865",
+  "sha256": "3424890b2fb15ec48e9dc968b0639d93907a79707c171e205496661bc3207a21",
+  "size": 157182601,
+  "notes": "The teacher defers to the tone meter on GPT-Live; on the realtime engine she waits for its reading before replying"
 }
