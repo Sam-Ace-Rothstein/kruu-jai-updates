@@ -1,8 +1,8 @@
 {
-  "version": "0.38.0",
+  "version": "0.39.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568321144",
-  "sha256": "60d33aabf449a1b5674d3673add1b7cfabec68291d82029e1759a483c80a9955",
-  "size": 157192663,
-  "notes": "Choosing a word now opens its section too, so the teacher can move from the first word to the second"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/568357144",
+  "sha256": "8c9d9da1363d260f2f80a25b160fa56f2106a670042ca4e89ca520cc9c0733f8",
+  "size": 157193784,
+  "notes": "The teacher greets you in Thai when the lesson starts, and never reads a Thai name written in English letters"
 }
