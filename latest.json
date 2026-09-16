@@ -1,8 +1,8 @@
 {
-  "version": "0.22.3",
+  "version": "0.23.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/566416844",
-  "sha256": "cd22991bee2035a12308e115dae2c14b36a24959d8ab4203adf973bebe6b7a38",
-  "size": 157165906,
-  "notes": "The teacher is told your measured tone, the highlight follows her section, and she teaches the tone the book prints"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/567342403",
+  "sha256": "d7d7ac32bb113c7b7d19d7cf173bfb8f19e56e67142b51c95b09d20e0a5009b7",
+  "size": 157167811,
+  "notes": "Every tone reading is now kept in your record, so the next lesson can be checked against what was measured"
 }
