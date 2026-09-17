@@ -1,8 +1,8 @@
 {
-  "version": "0.42.0",
+  "version": "0.43.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/570278478",
-  "sha256": "2a54d0d079884c5f3ed4f14a713a035f88fd75e30dbcee8e17dc568c6b2809d3",
-  "size": 157207365,
-  "notes": "Forgiving is properly forgiving, and the plan cards sit on one row"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/570308716",
+  "sha256": "c0ea60938e8b37abfd000545ee59c20c82be9b884d398d28c184e5bf8bbf15c9",
+  "size": 157207518,
+  "notes": "Credit chips fit their content, and the tone tool listens any time by default"
 }
