@@ -1,8 +1,8 @@
 {
-  "version": "0.40.0",
+  "version": "0.41.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/569869332",
-  "sha256": "a71e6e782f0bd3bf0875fa00436486ba7e2bfc404d7ce3e92cb2b76ea92f9f5f",
-  "size": 157203933,
-  "notes": "Real pricing: plans sized in minutes, credits per minute, and every API call billed"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/570237475",
+  "sha256": "134fa56fb3284fe069290979ed60128295606dd5ead815eb14f0428c8613a1f8",
+  "size": 157206761,
+  "notes": "The tone tool judges how you set it: strict, balanced or forgiving"
 }
