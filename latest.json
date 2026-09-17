@@ -1,8 +1,8 @@
 {
-  "version": "0.41.0",
+  "version": "0.42.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/570237475",
-  "sha256": "134fa56fb3284fe069290979ed60128295606dd5ead815eb14f0428c8613a1f8",
-  "size": 157206761,
-  "notes": "The tone tool judges how you set it: strict, balanced or forgiving"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/570278478",
+  "sha256": "2a54d0d079884c5f3ed4f14a713a035f88fd75e30dbcee8e17dc568c6b2809d3",
+  "size": 157207365,
+  "notes": "Forgiving is properly forgiving, and the plan cards sit on one row"
 }
