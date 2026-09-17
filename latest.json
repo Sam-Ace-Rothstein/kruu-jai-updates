@@ -1,8 +1,8 @@
 {
-  "version": "0.43.0",
+  "version": "0.44.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/570308716",
-  "sha256": "c0ea60938e8b37abfd000545ee59c20c82be9b884d398d28c184e5bf8bbf15c9",
-  "size": 157207518,
-  "notes": "Credit chips fit their content, and the tone tool listens any time by default"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/570869813",
+  "sha256": "0e75aa93d8b7784abeabc1269c674915b1df7a4aacfd2027ad34edd81d97be79",
+  "size": 157208123,
+  "notes": "The tone tool says nothing rather than guessing where a word divides"
 }
