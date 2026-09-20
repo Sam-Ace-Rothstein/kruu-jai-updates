@@ -1,8 +1,8 @@
 {
-  "version": "0.49.0",
+  "version": "0.50.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576575773",
-  "sha256": "ac0184b5510f3e25f6a853a7db7f9e6ed9fede48cae7a066ab92da3fa14dfd5b",
-  "size": 157225443,
-  "notes": "Rate a word 1-5 in colour, already-known words filled in, progress on the header row"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576625243",
+  "sha256": "246f663db02f73efb47bd84efc3715eeb3bdf49f96ffdaa6c4d437de79fe7eae",
+  "size": 157225868,
+  "notes": "The 1-5 scale is coloured at rest, and Settings uses the same pills"
 }
