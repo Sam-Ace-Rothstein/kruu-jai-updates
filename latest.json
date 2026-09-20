@@ -1,8 +1,8 @@
 {
-  "version": "0.65.0",
+  "version": "0.66.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577395795",
-  "sha256": "ef482a2fc3f143ac16a0d2314bdfb86ff7511bd51b0c04056ed35ca0149cc498",
-  "size": 157230761,
-  "notes": "The Learning now ring holds on the point she is teaching, and every group of a section's notes is hers to teach"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577415901",
+  "sha256": "562f8ab107325a80d7dbbac5563debae0dbe22ff1b16a92418b928f4706b851e",
+  "size": 157231019,
+  "notes": "Your progress shows a day streak and your own 1-to-5 colours; the lesson panel now times Kruu Jai correctly"
 }
