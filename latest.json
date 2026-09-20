@@ -1,8 +1,8 @@
 {
-  "version": "0.55.0",
+  "version": "0.56.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576852155",
-  "sha256": "e4b097a1b6a70b8f38af2d83ebf73006ad845d669d2a718238b5d6b3a6ab345a",
-  "size": 157230700,
-  "notes": "One currency: credits, with a balance that counts down and a top-up when it runs out"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576897759",
+  "sha256": "8245886671cbdd164425d7f0a50aac806e5c7e51e3624bf8df6e754fb9884481",
+  "size": 157230657,
+  "notes": "A held credit is still yours, a dearer model burns more, and the pricing is simplified"
 }
