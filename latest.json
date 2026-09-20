@@ -1,8 +1,8 @@
 {
-  "version": "0.44.0",
+  "version": "0.45.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/570869813",
-  "sha256": "0e75aa93d8b7784abeabc1269c674915b1df7a4aacfd2027ad34edd81d97be79",
-  "size": 157208123,
-  "notes": "The tone tool says nothing rather than guessing where a word divides"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576414986",
+  "sha256": "a13908eacb7add3290d67099c939af088562a672f22d523c8ec0d1a246427f81",
+  "size": 157219802,
+  "notes": "The Tone Tool and the Thai Teacher are settings that follow your account"
 }
