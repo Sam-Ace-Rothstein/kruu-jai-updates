@@ -1,8 +1,8 @@
 {
-  "version": "0.60.0",
+  "version": "0.61.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577080337",
-  "sha256": "54d311733b1fe3cc49bbc2b241a01ec4d7b0e65b185285faf1ef6145a0923d37",
-  "size": 157237334,
-  "notes": "The tone tool now stays quiet while Kruu Jai runs a conversation"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577119153",
+  "sha256": "9d2fdb0b4279fae7b8641e90bae9ab639bfc7f026cfca2f304035c2f0fbd732e",
+  "size": 157237928,
+  "notes": "She no longer borrows the book's names, and a role play that stalls now says why"
 }
