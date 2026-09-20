@@ -1,8 +1,8 @@
 {
-  "version": "0.51.0",
+  "version": "0.52.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576686157",
-  "sha256": "05a24dbb9ff75375590b6c8fc4c157a6ffd30b24c090b9578ca9609501e5000a",
-  "size": 157227637,
-  "notes": "The tone tool reads run-together words again, and the whole list takes a 1-5"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576719902",
+  "sha256": "925044fd4e0521878ddaf982a3f9a57e29c39ec1eef0752b8a4ee63cd3450cfc",
+  "size": 157227730,
+  "notes": "Tabs on the vocabulary record, with the 1-5 leading each row"
 }
