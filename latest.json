@@ -1,8 +1,8 @@
 {
-  "version": "0.59.0",
+  "version": "0.60.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577050672",
-  "sha256": "11d1fc58a98877bef2606819f5a86040d835a868e9a6d1702dfb7e3153172dcc",
-  "size": 157237195,
-  "notes": "The lesson stops jumping between tabs while she talks"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577080337",
+  "sha256": "54d311733b1fe3cc49bbc2b241a01ec4d7b0e65b185285faf1ef6145a0923d37",
+  "size": 157237334,
+  "notes": "The tone tool now stays quiet while Kruu Jai runs a conversation"
 }
