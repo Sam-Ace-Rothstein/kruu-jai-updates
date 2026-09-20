@@ -1,8 +1,8 @@
 {
-  "version": "0.62.0",
+  "version": "0.63.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577218866",
-  "sha256": "c847d89b0854f35c5c482332863d9e712ec5d3e351427b671808539a88abd610",
-  "size": 157225942,
-  "notes": "The conversation is yours to practise; Kruu Jai now teaches the things to notice"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577298535",
+  "sha256": "ea880ec436b35603921bf2b2fd38764657b4544462e1f715cde75339435e6308",
+  "size": 157226811,
+  "notes": "Things to notice keeps the page still, and no longer grades your tones"
 }
