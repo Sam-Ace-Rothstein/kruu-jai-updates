@@ -1,8 +1,8 @@
 {
-  "version": "0.53.0",
+  "version": "0.54.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576764634",
-  "sha256": "e43a1bd918eca40b0fcad4a4e948fd754d9b7d6caa68d2050a23aa92e4ac25af",
-  "size": 157228181,
-  "notes": "Everything is billed in credits, and the plan sets the limit"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576794180",
+  "sha256": "578aae33b6c8e393b37d1f4ccceb8ba4b975c7127e95bc34607f3369cf0bbcd6",
+  "size": 157229426,
+  "notes": "Fixes the offer version error that stopped the app opening"
 }
