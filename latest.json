@@ -1,8 +1,8 @@
 {
-  "version": "0.50.0",
+  "version": "0.51.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576625243",
-  "sha256": "246f663db02f73efb47bd84efc3715eeb3bdf49f96ffdaa6c4d437de79fe7eae",
-  "size": 157225868,
-  "notes": "The 1-5 scale is coloured at rest, and Settings uses the same pills"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576686157",
+  "sha256": "05a24dbb9ff75375590b6c8fc4c157a6ffd30b24c090b9578ca9609501e5000a",
+  "size": 157227637,
+  "notes": "The tone tool reads run-together words again, and the whole list takes a 1-5"
 }
