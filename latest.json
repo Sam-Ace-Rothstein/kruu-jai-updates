@@ -1,8 +1,8 @@
 {
-  "version": "0.52.0",
+  "version": "0.53.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576719902",
-  "sha256": "925044fd4e0521878ddaf982a3f9a57e29c39ec1eef0752b8a4ee63cd3450cfc",
-  "size": 157227730,
-  "notes": "Tabs on the vocabulary record, with the 1-5 leading each row"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576764634",
+  "sha256": "e43a1bd918eca40b0fcad4a4e948fd754d9b7d6caa68d2050a23aa92e4ac25af",
+  "size": 157228181,
+  "notes": "Everything is billed in credits, and the plan sets the limit"
 }
