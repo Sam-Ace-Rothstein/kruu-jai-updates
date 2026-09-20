@@ -1,8 +1,8 @@
 {
-  "version": "0.63.0",
+  "version": "0.64.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577298535",
-  "sha256": "ea880ec436b35603921bf2b2fd38764657b4544462e1f715cde75339435e6308",
-  "size": 157226811,
-  "notes": "Things to notice keeps the page still, and no longer grades your tones"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577344455",
+  "sha256": "fb3c632b689b4994b10393a7b2b72caec029bd53e59e88207119e5df334ff153",
+  "size": 157229191,
+  "notes": "The Learning now ring holds on the point she is explaining, and you can tap one yourself"
 }
