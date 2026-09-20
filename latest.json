@@ -1,8 +1,8 @@
 {
-  "version": "0.46.0",
+  "version": "0.47.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576466029",
-  "sha256": "5e54cd6e255310b5c440f2d7ed854b776fa166d1e29793fbdcac346bf85cfbb1",
-  "size": 157221084,
-  "notes": "A living orb, her name on the panel, and one mark for settings"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576488384",
+  "sha256": "b2923b9c0a2b03be236403abda03058e6db1050a1e5baa9556da5467599fe8b9",
+  "size": 157221148,
+  "notes": "The lesson panel lays out properly while she is talking"
 }
