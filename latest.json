@@ -1,8 +1,8 @@
 {
-  "version": "0.56.0",
+  "version": "0.57.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576897759",
-  "sha256": "8245886671cbdd164425d7f0a50aac806e5c7e51e3624bf8df6e754fb9884481",
-  "size": 157230657,
-  "notes": "A held credit is still yours, a dearer model burns more, and the pricing is simplified"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/576925257",
+  "sha256": "585099844b8f4f1f766b1a1454260218e6dbf3cb720100aae0abdd38402b2ab5",
+  "size": 157234262,
+  "notes": "Credits refresh the moment you top up, and the dashboard watches the commission"
 }
