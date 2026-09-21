@@ -1,8 +1,8 @@
 {
-  "version": "0.79.0",
+  "version": "0.80.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/579083553",
-  "sha256": "8d4f669ac4e90061511a6c54476287ff6cd73ced79efc1198bce28eba0aac9da",
-  "size": 157248275,
-  "notes": "Groundwork continues for moving the record to a server"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/579194512",
+  "sha256": "4f35e51fcd421d80a955afe9afe9dfa44e8e6b10f75ba86b12317caa630da333",
+  "size": 157249862,
+  "notes": "The app starts again: 0.79.0 could not open its database"
 }
