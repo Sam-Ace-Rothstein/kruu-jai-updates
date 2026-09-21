@@ -1,8 +1,8 @@
 {
-  "version": "0.73.0",
+  "version": "0.74.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578604415",
-  "sha256": "2c8a6f9bc7f33e198905891ad212a99f4ccd1e40d096763eab9ef1fe97545dfa",
-  "size": 157242114,
-  "notes": "A lesson cut short by a dead browser is charged for the time it ran, not the whole block"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578641092",
+  "sha256": "14684b17c1952c996bf852613b4e0cdaa86251908fe918429a37aad3a81051d3",
+  "size": 157244385,
+  "notes": "No provider call can be billed to us without being charged, or without being counted"
 }
