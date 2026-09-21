@@ -1,8 +1,8 @@
 {
-  "version": "0.66.0",
+  "version": "0.67.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/577415901",
-  "sha256": "562f8ab107325a80d7dbbac5563debae0dbe22ff1b16a92418b928f4706b851e",
-  "size": 157231019,
-  "notes": "Your progress shows a day streak and your own 1-to-5 colours; the lesson panel now times Kruu Jai correctly"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578321212",
+  "sha256": "4b488463947ac22575d45b838585ff7d058a3b7cc9b795ede255537af1e0f567",
+  "size": 157231120,
+  "notes": "Your progress updates the moment you rate a word"
 }
