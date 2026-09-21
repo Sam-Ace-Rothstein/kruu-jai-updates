@@ -1,8 +1,8 @@
 {
-  "version": "0.71.0",
+  "version": "0.72.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578525472",
-  "sha256": "628dd1a7b36c300a9dfd9625ccf5700654280971f660d7fbb4da8fffe0cfe601",
-  "size": 157237192,
-  "notes": "Every section's points now reach Kruu Jai whole, and unmeasured models are priced from the real mix"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578569065",
+  "sha256": "1bb62a12a496067a776aa43f90b8e50171410ad0a9f2fdff0e0267f3aa0ebac4",
+  "size": 157240344,
+  "notes": "Every provider call is on the record, and the dashboard shows whether it was paid for"
 }
