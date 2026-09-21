@@ -1,8 +1,8 @@
 {
-  "version": "0.78.0",
+  "version": "0.79.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/579014700",
-  "sha256": "8b43f3843845e7f12d066cde33b61edabe616132b765bdcf38a5d321faffad07",
-  "size": 157247583,
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/579083553",
+  "sha256": "8d4f669ac4e90061511a6c54476287ff6cd73ced79efc1198bce28eba0aac9da",
+  "size": 157248275,
   "notes": "Groundwork continues for moving the record to a server"
 }
