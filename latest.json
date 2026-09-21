@@ -1,8 +1,8 @@
 {
-  "version": "0.72.0",
+  "version": "0.73.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578569065",
-  "sha256": "1bb62a12a496067a776aa43f90b8e50171410ad0a9f2fdff0e0267f3aa0ebac4",
-  "size": 157240344,
-  "notes": "Every provider call is on the record, and the dashboard shows whether it was paid for"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578604415",
+  "sha256": "2c8a6f9bc7f33e198905891ad212a99f4ccd1e40d096763eab9ef1fe97545dfa",
+  "size": 157242114,
+  "notes": "A lesson cut short by a dead browser is charged for the time it ran, not the whole block"
 }
