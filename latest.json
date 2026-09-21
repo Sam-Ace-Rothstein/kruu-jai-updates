@@ -1,8 +1,8 @@
 {
-  "version": "0.69.0",
+  "version": "0.70.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578399783",
-  "sha256": "6305bf2ca38274462f09438d3cd6ac8dbdde646dccff53b4f261cbec233d7f3d",
-  "size": 157235762,
-  "notes": "Each model is now priced from what it has actually cost, and the picker says so"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578437716",
+  "sha256": "b85d86c560277b0591793848e77cd299906e971cedfac53118c0c577326b7398",
+  "size": 157236278,
+  "notes": "Your credit history reads plainly, including entries from before"
 }
