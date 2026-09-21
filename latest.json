@@ -1,8 +1,8 @@
 {
-  "version": "0.76.0",
+  "version": "0.77.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578701784",
-  "sha256": "727fad17f9fc4982e9de48fa58836fae396530813374c83aea2488fd473003d3",
-  "size": 157245250,
-  "notes": "The typed chat now costs credits, like every other kind of practice"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578971978",
+  "sha256": "70082bd0c58326ad763c56871e206aab312c9a4396c18d501a135871eaa8e433",
+  "size": 157246772,
+  "notes": "Groundwork for moving the record to a server: one place now knows which database it is"
 }
