@@ -1,8 +1,8 @@
 {
-  "version": "0.74.0",
+  "version": "0.75.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578641092",
-  "sha256": "14684b17c1952c996bf852613b4e0cdaa86251908fe918429a37aad3a81051d3",
-  "size": 157244385,
-  "notes": "No provider call can be billed to us without being charged, or without being counted"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578671766",
+  "sha256": "50a6d1aca9839b48d8a73139ead69e8154cbfd9a243f87e809780f36215e3b10",
+  "size": 157244967,
+  "notes": "A typed answer is now costed from what the provider actually reported"
 }
