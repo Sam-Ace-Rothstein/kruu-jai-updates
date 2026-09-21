@@ -1,8 +1,8 @@
 {
-  "version": "0.75.0",
+  "version": "0.76.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578671766",
-  "sha256": "50a6d1aca9839b48d8a73139ead69e8154cbfd9a243f87e809780f36215e3b10",
-  "size": 157244967,
-  "notes": "A typed answer is now costed from what the provider actually reported"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/578701784",
+  "sha256": "727fad17f9fc4982e9de48fa58836fae396530813374c83aea2488fd473003d3",
+  "size": 157245250,
+  "notes": "The typed chat now costs credits, like every other kind of practice"
 }
