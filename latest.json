@@ -1,8 +1,8 @@
 {
-  "version": "0.82.0",
+  "version": "0.83.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/581615763",
-  "sha256": "07a19d002a97e8288319cfdf5b2799106b548ad342f61ec36f892c3e2f416108",
-  "size": 157454844,
-  "notes": "The lesson on screen follows her again when she moves to a section, and her tone sheet moves with it"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/582253647",
+  "sha256": "226cb2a9fbc4969a409c3ff58f318097b57ceddc964b555f18f4be2a205d8bed",
+  "size": 157464000,
+  "notes": "Kruu Jai keeps its record in Postgres; the app runs on it or says so plainly"
 }
