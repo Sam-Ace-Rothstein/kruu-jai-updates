@@ -1,8 +1,8 @@
 {
-  "version": "0.80.0",
+  "version": "0.81.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/579194512",
-  "sha256": "4f35e51fcd421d80a955afe9afe9dfa44e8e6b10f75ba86b12317caa630da333",
-  "size": 157249862,
-  "notes": "The app starts again: 0.79.0 could not open its database"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/581293287",
+  "sha256": "5f6ed2a8f75faa7b406205d56abdca27e42d5f1caab91178b0397c6ae2efae3c",
+  "size": 157453799,
+  "notes": "Postgres behind one setting: with THAI_POSTGRES_URL set the app runs on Postgres; without it, SQLite exactly as before"
 }
