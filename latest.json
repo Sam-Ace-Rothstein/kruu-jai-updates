@@ -1,8 +1,8 @@
 {
-  "version": "0.81.0",
+  "version": "0.82.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/581293287",
-  "sha256": "5f6ed2a8f75faa7b406205d56abdca27e42d5f1caab91178b0397c6ae2efae3c",
-  "size": 157453799,
-  "notes": "Postgres behind one setting: with THAI_POSTGRES_URL set the app runs on Postgres; without it, SQLite exactly as before"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/581615763",
+  "sha256": "07a19d002a97e8288319cfdf5b2799106b548ad342f61ec36f892c3e2f416108",
+  "size": 157454844,
+  "notes": "The lesson on screen follows her again when she moves to a section, and her tone sheet moves with it"
 }
