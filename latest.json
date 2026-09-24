@@ -1,8 +1,8 @@
 {
-  "version": "0.84.0",
+  "version": "0.85.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/584290563",
-  "sha256": "416e546abdbc534d62c89cf61478f33267b9fbf50df31ba385fc91ab50e16cf6",
-  "size": 157476042,
-  "notes": "Kruu Jai now opens your lessons online at app.kruujai.com, the same record as the web app. Sign in once with the emailed code."
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/585780698",
+  "sha256": "9f92630c78b00cfd7bb7d3402bfaada244c19ecd0926ffe8ffbbb8944c3245fb",
+  "size": 157576673,
+  "notes": "The phone-ready lesson: one teacher sheet, a highlight that moves in order, looped Thai, and audio that plays"
 }
