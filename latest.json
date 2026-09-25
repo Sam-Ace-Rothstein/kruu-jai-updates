@@ -1,8 +1,8 @@
 {
-  "version": "0.85.1",
+  "version": "0.86.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/585947512",
-  "sha256": "7a936974efaba29cb4792fb39739dc1cba462660bebbe7d51b3d546efaae86f7",
-  "size": 157604074,
-  "notes": "New Kruu Jai logo: the Loop Heart"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/588650861",
+  "sha256": "a059fecc90b932312feee86df62f41dff78f4443240530d770a464725d10fd3d",
+  "size": 157677917,
+  "notes": "The new Kruu Jai logo in the Dock and the window; lessons, payments and settings update from app.kruujai.com"
 }
