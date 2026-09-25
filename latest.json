@@ -1,8 +1,8 @@
 {
-  "version": "0.86.0",
+  "version": "0.87.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/588650861",
-  "sha256": "a059fecc90b932312feee86df62f41dff78f4443240530d770a464725d10fd3d",
-  "size": 157677917,
-  "notes": "The new Kruu Jai logo in the Dock and the window; lessons, payments and settings update from app.kruujai.com"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/588795801",
+  "sha256": "f33491ebf9d0efcd226dc3c52317c392b0a041a35642eedf2eadef1fb0a8c5ff",
+  "size": 157685637,
+  "notes": "Credits now last 12 months; payments ready to switch on; the Thai Tone Test's recordings"
 }
