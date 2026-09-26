@@ -1,8 +1,8 @@
 {
-  "version": "0.87.0",
+  "version": "0.88.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/588795801",
-  "sha256": "f33491ebf9d0efcd226dc3c52317c392b0a041a35642eedf2eadef1fb0a8c5ff",
-  "size": 157685637,
-  "notes": "Credits now last 12 months; payments ready to switch on; the Thai Tone Test's recordings"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/590189662",
+  "sha256": "e90f638d6399228a256776b23056e7cb3b6839727edcb36615c82da8a02850ea",
+  "size": 157740594,
+  "notes": "Opens on an overview of everything; Levels and Lessons with new titles; a desktop sidebar with nothing to scroll; the tone drill on its own"
 }
