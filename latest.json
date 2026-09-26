@@ -1,8 +1,8 @@
 {
-  "version": "0.90.0",
+  "version": "0.91.0",
   "url": "https://kruujai.com/download/Kruu-Jai-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.90.0-arm64.zip",
-  "sha256": "e15d8d5b717dd0f14d1b71a1035223d6b582264d85085e926f799854071838a7",
-  "size": 127318816,
-  "notes": "Settings and the phone menu in the new style, Next lesson in the header"
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.91.0-arm64.zip",
+  "sha256": "af214ed980fa71129bc16f5ab3d3b235260cf670a68d7d61f3951dfbe737b433",
+  "size": 127318808,
+  "notes": "Tone feedback that asks again after a wrong tone, every note taught in order, Practice fits a phone"
 }
