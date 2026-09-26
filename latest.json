@@ -1,8 +1,8 @@
 {
   "version": "0.90.0",
-  "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/590471496",
-  "sha256": "98feb9d3eec8cb5a5156b97ccaffa614dddcd7f77fc4bf9cf6db946ce16764ad",
-  "size": 157758750,
+  "url": "https://kruujai.com/download/Kruu-Jai-Mac.dmg",
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.90.0-arm64.zip",
+  "sha256": "e15d8d5b717dd0f14d1b71a1035223d6b582264d85085e926f799854071838a7",
+  "size": 127318816,
   "notes": "Settings and the phone menu in the new style, Next lesson in the header"
 }
