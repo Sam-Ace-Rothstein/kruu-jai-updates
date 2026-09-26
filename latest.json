@@ -1,8 +1,8 @@
 {
-  "version": "0.88.0",
+  "version": "0.89.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/590189662",
-  "sha256": "e90f638d6399228a256776b23056e7cb3b6839727edcb36615c82da8a02850ea",
-  "size": 157740594,
-  "notes": "Opens on an overview of everything; Levels and Lessons with new titles; a desktop sidebar with nothing to scroll; the tone drill on its own"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/590224011",
+  "sha256": "d2278dd6daa64a4559d43651ba5cf6ad67889cd32de4b0fd3aa780a05f7010c2",
+  "size": 157750306,
+  "notes": "Checks for updates while open, not only at launch; Kruu Jai's panel as on the phone; section titles; the logo no longer under the window buttons"
 }
