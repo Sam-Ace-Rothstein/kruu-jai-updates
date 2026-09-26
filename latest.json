@@ -1,8 +1,8 @@
 {
-  "version": "0.89.0",
+  "version": "0.90.0",
   "url": "https://github.com/Sam-Ace-Rothstein/ThAI/releases/latest",
-  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/590224011",
-  "sha256": "d2278dd6daa64a4559d43651ba5cf6ad67889cd32de4b0fd3aa780a05f7010c2",
-  "size": 157750306,
-  "notes": "Checks for updates while open, not only at launch; Kruu Jai's panel as on the phone; section titles; the logo no longer under the window buttons"
+  "asset": "https://api.github.com/repos/Sam-Ace-Rothstein/ThAI/releases/assets/590471496",
+  "sha256": "98feb9d3eec8cb5a5156b97ccaffa614dddcd7f77fc4bf9cf6db946ce16764ad",
+  "size": 157758750,
+  "notes": "Settings and the phone menu in the new style, Next lesson in the header"
 }
