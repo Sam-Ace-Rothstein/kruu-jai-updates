@@ -1,8 +1,8 @@
 {
-  "version": "0.94.2",
+  "version": "0.95.0",
   "url": "https://kruujai.com/download/Kruu-Jai-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.94.2-arm64.zip",
-  "sha256": "42fcf4bf55edf5f4096c8be50946747d430635866b5639ae4d5b230d633a110a",
-  "size": 127318823,
-  "notes": "The highlight is what Kruu Jai teaches: pick a guide part and she teaches it, then the next"
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.95.0-arm64.zip",
+  "sha256": "bf67045390d487c9cbaef5b4ce4b2273dc4ab38767bc8fc65bda527be6638619",
+  "size": 127318813,
+  "notes": "Flashcards; leaderboard; Back in the tone tests; silent audio and unchecked tone clips fixed"
 }
