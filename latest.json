@@ -1,8 +1,8 @@
 {
-  "version": "0.96.0",
+  "version": "0.97.0",
   "url": "https://kruujai.com/download/Kruu-Jaidee-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.96.0-arm64.zip",
-  "sha256": "f594a768db9a19418b9f006c44c1129a3ed90f0ebbe59b8bf375de5f37075bf5",
-  "size": 127319259,
-  "notes": "Kruu Jai is now Kruu Jaidee"
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.97.0-arm64.zip",
+  "sha256": "2c3ca71ace43d1bc6565038dd6c3526a88e2db0671ec69552d89f6185adfec32",
+  "size": 127700117,
+  "notes": "The app is now called Kruu Jaidee in the Dock and Finder"
 }
