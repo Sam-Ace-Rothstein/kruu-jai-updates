@@ -1,8 +1,8 @@
 {
-  "version": "0.92.0",
+  "version": "0.93.0",
   "url": "https://kruujai.com/download/Kruu-Jai-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.92.0-arm64.zip",
-  "sha256": "524d4d4abe5e59f3bdadf7f16a1224cd27bf1f13bf4bcbe9c9fb8458fae2ebb0",
-  "size": 127318819,
-  "notes": "An end button on every call, no Voice/Chat switch during a call, the highlight stays on the word she is teaching, level links on the overview"
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.93.0-arm64.zip",
+  "sha256": "169180fe52ee6ca33daaf29089b7ad7f4dbf4284155f8ae0e38dee4c7cdb1116",
+  "size": 127318816,
+  "notes": "Kruu Jai greets you before a lesson, with the lesson or word she will start on"
 }
