@@ -1,8 +1,8 @@
 {
-  "version": "0.94.0",
+  "version": "0.94.1",
   "url": "https://kruujai.com/download/Kruu-Jai-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.94.0-arm64.zip",
-  "sha256": "179ac60c77ccb5afd49e04728eb8c2063d883d97a021a0c29646e515e7bd420c",
-  "size": 127318816,
-  "notes": "Before you start rewritten: shorter, one part at a time, and Teach me this"
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.94.1-arm64.zip",
+  "sha256": "2074a822196cdf01f6ff00641a453f54319665df60694858c9163fe4f49d5d75",
+  "size": 127318823,
+  "notes": "More examples in the Before you start guides"
 }
