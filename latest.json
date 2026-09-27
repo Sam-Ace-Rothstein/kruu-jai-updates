@@ -1,8 +1,8 @@
 {
-  "version": "0.93.2",
+  "version": "0.94.0",
   "url": "https://kruujai.com/download/Kruu-Jai-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.93.2-arm64.zip",
-  "sha256": "ddf9d991344cea1997376e1e5fab88ba7ade168dc8c2d55c6f75c8c66206fd93",
-  "size": 127318825,
-  "notes": "No stray error after ending a lesson"
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.94.0-arm64.zip",
+  "sha256": "179ac60c77ccb5afd49e04728eb8c2063d883d97a021a0c29646e515e7bd420c",
+  "size": 127318816,
+  "notes": "Before you start rewritten: shorter, one part at a time, and Teach me this"
 }
