@@ -1,8 +1,8 @@
 {
-  "version": "0.95.0",
-  "url": "https://kruujai.com/download/Kruu-Jai-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.95.0-arm64.zip",
-  "sha256": "bf67045390d487c9cbaef5b4ce4b2273dc4ab38767bc8fc65bda527be6638619",
-  "size": 127318813,
-  "notes": "Flashcards; leaderboard; Back in the tone tests; silent audio and unchecked tone clips fixed"
+  "version": "0.96.0",
+  "url": "https://kruujai.com/download/Kruu-Jaidee-Mac.dmg",
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.96.0-arm64.zip",
+  "sha256": "f594a768db9a19418b9f006c44c1129a3ed90f0ebbe59b8bf375de5f37075bf5",
+  "size": 127319259,
+  "notes": "Kruu Jai is now Kruu Jaidee"
 }
