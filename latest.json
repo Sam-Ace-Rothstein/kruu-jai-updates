@@ -1,8 +1,8 @@
 {
-  "version": "0.91.0",
+  "version": "0.92.0",
   "url": "https://kruujai.com/download/Kruu-Jai-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.91.0-arm64.zip",
-  "sha256": "af214ed980fa71129bc16f5ab3d3b235260cf670a68d7d61f3951dfbe737b433",
-  "size": 127318808,
-  "notes": "Tone feedback that asks again after a wrong tone, every note taught in order, Practice fits a phone"
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.92.0-arm64.zip",
+  "sha256": "524d4d4abe5e59f3bdadf7f16a1224cd27bf1f13bf4bcbe9c9fb8458fae2ebb0",
+  "size": 127318819,
+  "notes": "An end button on every call, no Voice/Chat switch during a call, the highlight stays on the word she is teaching, level links on the overview"
 }
