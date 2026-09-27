@@ -1,8 +1,8 @@
 {
-  "version": "0.94.1",
+  "version": "0.94.2",
   "url": "https://kruujai.com/download/Kruu-Jai-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.94.1-arm64.zip",
-  "sha256": "2074a822196cdf01f6ff00641a453f54319665df60694858c9163fe4f49d5d75",
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.94.2-arm64.zip",
+  "sha256": "42fcf4bf55edf5f4096c8be50946747d430635866b5639ae4d5b230d633a110a",
   "size": 127318823,
-  "notes": "More examples in the Before you start guides"
+  "notes": "The highlight is what Kruu Jai teaches: pick a guide part and she teaches it, then the next"
 }
