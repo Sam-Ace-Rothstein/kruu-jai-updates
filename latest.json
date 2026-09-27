@@ -1,8 +1,8 @@
 {
-  "version": "0.93.0",
+  "version": "0.93.1",
   "url": "https://kruujai.com/download/Kruu-Jai-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.93.0-arm64.zip",
-  "sha256": "169180fe52ee6ca33daaf29089b7ad7f4dbf4284155f8ae0e38dee4c7cdb1116",
-  "size": 127318816,
-  "notes": "Kruu Jai greets you before a lesson, with the lesson or word she will start on"
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.93.1-arm64.zip",
+  "sha256": "7b8a17aa6500c1de2849d9b97867940f935025e03e3218513f8b0c5d121b16d5",
+  "size": 127318823,
+  "notes": "The welcome card before a lesson, tidied"
 }
