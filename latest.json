@@ -1,9 +1,9 @@
 {
-  "version": "0.98.0",
+  "version": "0.98.1",
   "url": "https://kruujai.com/download/Kruu-Jaidee-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.98.0-arm64.zip",
-  "sha256": "97335002f473ea8d34f8b5b06d5ea9efabaf623b39ecf119f92380ef6ddcb8af",
-  "size": 126577160,
-  "notes": "Safer updates: every update is now checked against Kruu Jaidee's own signature before it installs.",
-  "signature": "r0sp//o2BIC8b919dl2RMlL73VdOirvyj4mNVNV7MhFaBuoOmdf0B/xWWabArMx0TX4tkIrMe8G8vACryPTXCw=="
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.98.1-arm64.zip",
+  "sha256": "890ebfff431d86d1f0e52d988dc3a1e5e627f4baf7a9c9e413905cac7b062f41",
+  "size": 126577686,
+  "notes": "Update messages no longer pile up: one at a time, and none while an update installs.",
+  "signature": "XXed0AoNszDD+5CKAXlfWKvN4i0nusb+Ub/lx4Uv3TdJi4uuvvdYg1U5sqjWqFNa8S+MFEvS1FEuygM3wNLFDQ=="
 }
