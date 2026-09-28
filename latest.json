@@ -1,8 +1,9 @@
 {
-  "version": "0.97.1",
+  "version": "0.98.0",
   "url": "https://kruujai.com/download/Kruu-Jaidee-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.97.1-arm64.zip",
-  "sha256": "b8aaf1b28c620c65383fc2e1c426cfd55ac0c930933fbdf228b963cf735a2df0",
-  "size": 126576287,
-  "notes": "Opens after downloading from kruujai.com"
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.98.0-arm64.zip",
+  "sha256": "97335002f473ea8d34f8b5b06d5ea9efabaf623b39ecf119f92380ef6ddcb8af",
+  "size": 126577160,
+  "notes": "Safer updates: every update is now checked against Kruu Jaidee's own signature before it installs.",
+  "signature": "r0sp//o2BIC8b919dl2RMlL73VdOirvyj4mNVNV7MhFaBuoOmdf0B/xWWabArMx0TX4tkIrMe8G8vACryPTXCw=="
 }
