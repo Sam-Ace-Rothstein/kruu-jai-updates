@@ -1,9 +1,9 @@
 {
-  "version": "0.99.0",
+  "version": "0.99.1",
   "url": "https://kruujai.com/download/Kruu-Jaidee-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.99.0-arm64.zip",
-  "sha256": "1fafe1bd8570d2b47379776d83f85731d1f1cdcb866b6a0d3b429b8dcb3c3437",
-  "size": 127203827,
-  "notes": "Kruu Jaidee can show you alerts: turn them on in Settings → Notifications",
-  "signature": "Ht6zSs3ujBwIp1VYMWUTBc55FY3ZHTCrVY/A9Whldfcudul88F3kJ8wxXIvwS9C3pCZu0ONqdNgTJvZB+QlfDA=="
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.99.1-arm64.zip",
+  "sha256": "403ce57f69ace7844de7601ae25b8958df45fbcc667dfb0cf273fa706f0fb289",
+  "size": 127231463,
+  "notes": "A new opening screen: Kruu Jaidee and the five tones while the app starts",
+  "signature": "6nynl6PgRivSmUn6/qJCk5MWUMDt1N+e3m3amwLudS1Ghyc2RkhQFeJ5Q6/oC/Gt+fmmSfbwoxCzt+Sl05YWBA=="
 }
