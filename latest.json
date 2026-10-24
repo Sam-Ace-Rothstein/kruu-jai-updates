@@ -1,9 +1,9 @@
 {
-  "version": "0.99.1",
+  "version": "0.99.2",
   "url": "https://kruujai.com/download/Kruu-Jaidee-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.99.1-arm64.zip",
-  "sha256": "403ce57f69ace7844de7601ae25b8958df45fbcc667dfb0cf273fa706f0fb289",
-  "size": 127231463,
-  "notes": "A new opening screen: Kruu Jaidee and the five tones while the app starts",
-  "signature": "6nynl6PgRivSmUn6/qJCk5MWUMDt1N+e3m3amwLudS1Ghyc2RkhQFeJ5Q6/oC/Gt+fmmSfbwoxCzt+Sl05YWBA=="
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.99.2-arm64.zip",
+  "sha256": "a4c18e05df0aa65f21eaab6cc6752f156e871250287597cf1ea78f52d044b839",
+  "size": 127232656,
+  "notes": "The menus follow the app's language: Chinese when the app is in Chinese",
+  "signature": "5v19U5CQBBTbLEQ4yafXKicczmQ2ltdU1PEJQjz+x8Em5Kv06i+iB4Bvug0HKXS+m+vL7e/67I+CBB5YbHq3AQ=="
 }
