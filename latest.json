@@ -1,9 +1,9 @@
 {
-  "version": "0.99.2",
+  "version": "0.99.3",
   "url": "https://kruujai.com/download/Kruu-Jaidee-Mac.dmg",
-  "asset": "https://kruujai.com/download/Kruu-Jai-0.99.2-arm64.zip",
-  "sha256": "a4c18e05df0aa65f21eaab6cc6752f156e871250287597cf1ea78f52d044b839",
-  "size": 127232656,
-  "notes": "The menus follow the app's language: Chinese when the app is in Chinese",
-  "signature": "5v19U5CQBBTbLEQ4yafXKicczmQ2ltdU1PEJQjz+x8Em5Kv06i+iB4Bvug0HKXS+m+vL7e/67I+CBB5YbHq3AQ=="
+  "asset": "https://kruujai.com/download/Kruu-Jai-0.99.3-arm64.zip",
+  "sha256": "da51c79e4735d56b723b06e5e1601d4fc1714dd121f946b77f2ffe439c0792c6",
+  "size": 129625755,
+  "notes": "Security updates",
+  "signature": "EuW4C1fNseYE85KzL4Z3uA+TLvI68mRNXTXEq49s3RtSLVNrLE5sz3S7QV8ApxHqbRTIi/5uw9ejmj4vGeRyCQ=="
 }
